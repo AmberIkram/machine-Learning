@@ -1,0 +1,24 @@
+company,job,degree,salary_more_then_100k
+Google,Sales Executive,Bachelors,0
+Google,Computer Programmer,Bachelors,1
+Google,Computer Programmer,Masters,1
+Google,Computer Engineer,Bachelors,1
+Google,Computer Engineer,Masters,1
+Google,HR,Bachelors,0
+Google,HR,Masters,1
+ABC Pharma,Sales Executive,Bachelors,0
+ABC Pharma,Sales Executive,Masters,0
+ABC Pharma,Computer Programmer,Bachelors,1
+ABC Pharma,Computer Programmer,Masters,1
+ABC Pharma,Computer Engineer,Bachelors,1
+ABC Pharma,Computer Engineer,Masters,1
+ABC Pharma,HR,Bachelors,0
+ABC Pharma,HR,Masters,1
+Facebook,Sales Executive,Bachelors,1
+Facebook,Sales Executive,Masters,1
+Facebook,Computer Programmer,Bachelors,1
+Facebook,Computer Programmer,Masters,1
+Facebook,Computer Engineer,Bachelors,1
+Facebook,Computer Engineer,Masters,1
+Facebook,HR,Bachelors,1
+Facebook,HR,Masters,1
